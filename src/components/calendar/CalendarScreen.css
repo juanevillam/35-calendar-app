@@ -1,0 +1,20 @@
+.calendarScreen {
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+}
+
+.calendarScreen__calendar {
+    background-color: #F7F7FE;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: column;
+    color: #100F10;
+    height: 100vh;
+    margin-left: 20px;
+}
+
+.rbc-calendar {
+    height: 100vh;
+    color: #100F10;
+}
