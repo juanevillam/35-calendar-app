@@ -1,10 +1,12 @@
 .login-container{
-    margin-top: 10%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 100%;
+    width: 100%;
 }
 .login-form-1{
     border-radius: 5px;
     background-color: #F7F7FE;
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
     padding: 5%;
 }
 .login-form-1 h3{
@@ -14,7 +16,6 @@
 .login-form-2{
     border-radius: 5px;
     background-color: #6A26CD;
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
     padding: 5%;
 }
 .login-form-2 h3{
@@ -28,7 +29,7 @@
 {
     width: 50%;
     border-radius: 1rem;
-    padding: 1.5%;
+    padding: 2%;
     border: none;
     cursor: pointer;
 }
@@ -53,4 +54,16 @@
     color: #0062cc;
     font-weight: 600;
     text-decoration: none;
+}
+.foo {
+    background-color: #6A26CD;
+    border-radius: 30px;
+    color: #F7F7FE;
+    padding: 10px;
+    margin-top: 62px;
+    width: 100%;
+}
+.foo-content {
+   text-align: center;
+   width: 100%;
 }

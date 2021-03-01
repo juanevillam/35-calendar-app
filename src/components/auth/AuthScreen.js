@@ -74,7 +74,15 @@ export const AuthScreen = () => {
                         </div>
                     </form>
                 </div>
+                <div className="footer foo">
+                    <div className="foo-content">
+                    <i className="far fa-copyright"></i>
+                    <span className="navbar-brand ml-2 mr-2">Juan Villa - 2021</span>
+                    <i className="far fa-copyright"></i>
+                    </div>
+                </div>
             </div>
+            <br />
         </div>
     );
 
